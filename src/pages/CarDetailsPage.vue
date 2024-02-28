@@ -84,6 +84,11 @@ export default {
 
 <style lang="scss" scoped>
 img {
-  max-height: 40vh;
+  max-height: 50vh;
+  padding: 4px;
+  background-color: rgb(223, 223, 223);
+  border-radius: 16px;
+  border: 2px solid lawngreen;
+
 }
 </style>

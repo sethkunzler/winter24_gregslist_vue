@@ -1,8 +1,9 @@
 <template>
   <div class="container">
     <section class="row">
-      <div class="col-12 my-2">
-        <h1>Cars</h1>
+      <div class="col-10 mx-auto my-2 d-flex justify-content-between align-items-center">
+        <h1 class="display-5 bold greg-green">Cars</h1>
+        <h3 >Choose a Car!</h3>
       </div>
 
       <div class="col-12">
